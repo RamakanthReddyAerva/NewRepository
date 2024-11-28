@@ -1,2 +1,2 @@
 # NewRepository
-new
+New to github
